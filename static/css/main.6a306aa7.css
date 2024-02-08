@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,html{align-items:center;display:flex;height:100%;justify-content:center;margin:0}main{grid-gap:10px;display:grid;gap:10px;grid-template-columns:repeat(3,1fr);width:400px}.box{border:1px solid #000;border-radius:15px;cursor:pointer;height:100px;width:100px}.box:active{transform:none}
+/*# sourceMappingURL=main.6a306aa7.css.map*/

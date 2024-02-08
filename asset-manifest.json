@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Buttons-toggle/static/css/main.6a306aa7.css",
+    "main.js": "/Buttons-toggle/static/js/main.d6b16fdd.js",
+    "index.html": "/Buttons-toggle/index.html",
+    "main.6a306aa7.css.map": "/Buttons-toggle/static/css/main.6a306aa7.css.map",
+    "main.d6b16fdd.js.map": "/Buttons-toggle/static/js/main.d6b16fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a306aa7.css",
+    "static/js/main.d6b16fdd.js"
+  ]
+}
